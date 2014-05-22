@@ -1,5 +1,6 @@
 <?php
 namespace IPTools;
+require_once __DIR__ . '/polyfill.php';
 
 /**
  * @author Safarov Alisher <alisher.safarov@outlook.com>
